@@ -127,6 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-#own
-*~.py
+email_sender/data.py
